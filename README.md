@@ -1,39 +1,59 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<h1 align="center">Hey there! 👋 I'm Azo Alahmed</h1>
 
-<p align="left">My name is azoo and I'm a full stack develper from syria</p>
+<p align="center">
+  💻 Full Stack Developer | 💡 Passionate Problem Solver | 🚀 Building the Web, One Commit at a Time
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+👨‍💻 About Me
+I'm a 4th-year Software Engineering student and a graduate of Computer Institute, specializing in Full Stack Web Development.  
+I love creating modern, responsive, and high-performing web apps that solve real-world problems.
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+🛠 Tech Stack
 
-###
+Frontend:  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
-<h2 align="left">I code with</h2>
+Backend:  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 
-###
+Database & Tools:  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+---
 
-###
+⚙ Currently Working On
+
+- ✨ Building new Full Stack projects  
+- 🔍 Learning advanced backend optimization  
+- 📚 Exploring DevOps and CI/CD tools  
+
+---
+
+📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azoalahmed&show_icons=true&theme=radical" alt="Azo's GitHub stats" />
+</p>
+
+---
+
+🤝 Let’s Connect!
+
+🚧 Links coming soon...
+
+---
+
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+```
